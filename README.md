@@ -2,7 +2,7 @@
 
 Welcome to **WeatherPy**, your go-to Python script for checking the weather forecast! With WeatherPy, you can quickly get detailed weather information for any city around the world.
 
-### [Check out my Portfolio💞](https://aaliyahm-portfolio.netlify.app/)
+### Check out my [Portfolio ☀️](https://aaliyahm-portfolio.netlify.app/)
 
 ## Usage
 
